@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">myPrefApp</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="settings_login_key">gert</string>
+    <string name="settings_login">gert_title</string>
+    <string name="news_ui_settings_minreklame_key">hans</string>
+    <string name="news_ui_settings_minreklame">hans subtitle</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:key="key_root">
+
+    <Preference
+        android:key="@string/settings_login_key"
+        android:title="@string/settings_login" />
+    <Preference
+        android:key="@string/news_ui_settings_minreklame_key"
+        android:title="@string/news_ui_settings_minreklame"
+        />
+
+
+</PreferenceScreen>
